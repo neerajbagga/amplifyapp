@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <h1>Hello From V2</h1>
+        <h1>Hello From V3</h1>
       </header>
     </div>
   );
